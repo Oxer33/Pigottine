@@ -101,7 +101,7 @@
 - [ ] Newsletter signup form
 
 ### PWA
-- [ ] Creare manifest.json
+- [x] Creare manifest.json ✓
 - [ ] Implementare service worker
 - [ ] Aggiungere splash screen nativo
 
