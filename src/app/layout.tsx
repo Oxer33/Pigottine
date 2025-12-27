@@ -13,6 +13,7 @@ import './globals.css'
 // METADATA SEO
 // ============================================
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.vivina.pigottine.com'),
   title: 'Le Pigottine di Vivina | Bambole Artigianali Fatte a Mano',
   description: 'Scopri le Pigottine di Vivina: bambole artigianali uniche, create a mano con amore e dedizione. Ogni pigottina è un\'opera d\'arte unica, perfetta come regalo speciale o per la tua collezione.',
   keywords: [
