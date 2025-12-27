@@ -46,14 +46,14 @@
 
 ---
 
-## 🔄 IN CORSO
+## ✅ COMPLETATO RECENTEMENTE
 
 ### Build e Deploy
-- [ ] Installare dipendenze npm
-- [ ] Testare build locale
-- [ ] Configurare repository GitHub
-- [ ] Push su GitHub
-- [ ] Deploy su AWS Amplify
+- [x] Installare dipendenze npm ✓
+- [x] Testare build locale ✓
+- [x] Configurare repository GitHub ✓
+- [x] Push su GitHub ✓ → https://github.com/Oxer33/Pigottine
+- [ ] Deploy su AWS Amplify (vedi DEPLOY_INSTRUCTIONS.md)
 
 ---
 
